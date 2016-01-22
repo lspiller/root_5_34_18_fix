@@ -14,13 +14,13 @@
 *.a
 
 # Dictionary source files
-G__*.c
-G__*.cxx
-G__*.h
-etc/allDict.cxx
-etc/allDict.h
-rootcint_*.cxx
-rootcint_*.h
+#G__*.c
+#G__*.cxx
+#G__*.h
+#etc/allDict.cxx
+#etc/allDict.h
+#rootcint_*.cxx
+#rootcint_*.h
 
 # Other Stuff
 *.d
